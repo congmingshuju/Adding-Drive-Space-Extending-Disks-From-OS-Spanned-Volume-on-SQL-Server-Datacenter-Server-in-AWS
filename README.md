@@ -65,6 +65,7 @@ Click ‘Finish’ and you’re done.
 
 新磁盘现在是“跨区卷”，在磁盘管理下显示为紫色。从Windows资源管理器中查看，你会看到驱动器为250GB。
 The new disks are now ‘Spanned Volumes’ and will be represented in Purple under Disk Management.  When viewed from Windows Explorer; you will see the drive as 250GB.
+
 ![Spanned Volume AWS](images/step-8.jpg?raw=true "步骤8")
 
 ---

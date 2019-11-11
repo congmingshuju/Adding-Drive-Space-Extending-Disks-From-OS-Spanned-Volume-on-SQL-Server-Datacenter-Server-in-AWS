@@ -35,12 +35,14 @@ On the following prompt keep the default settings, and Click ‘OK’.
 
 ### 3
 一旦完成，它将只显示为“Online”，并保持“Unallocated”状态。
-Once it’s completed it will simply display as ‘Online’, and remain in an ‘Unallocated’ state. 
+Once it’s completed it will simply display as ‘Online’, and remain in an ‘Unallocated’ state.
+
 ![Spanned Volume AWS](images/step-3.jpg?raw=true "步骤3")
 
 ### 4
 返回到你要扩展的原始驱动器（ Drive L:)，然后单击鼠标右键。选择“Extend Volume”。
-Go back to the original Drive you wish to extend ( Drive L: ) and right-click. Select ‘Extend 
+Go back to the original Drive you wish to extend ( Drive L: ) and right-click. Select 'Extend'.
+
 ![Spanned Volume AWS](images/step-4.jpg?raw=true "步骤4")
 
 ### 5
@@ -56,6 +58,7 @@ Select the disk on the left, and click ‘Add’, then ‘Next’.
 ### 7
 点击“Finish”完成。
 Click ‘Finish’ and you’re done.
+
 ![Spanned Volume AWS](images/step-7.jpg?raw=true "步骤7")
 
 ### 8
